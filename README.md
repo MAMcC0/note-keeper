@@ -12,4 +12,4 @@ Repo: https://github.com/MAMcC0/note-keeper
 Heroku: https://vast-tundra-99915.herokuapp.com/
 
 
-[!Screenshot-of-app](./public/assets/Screenshot%20(35).png);
+![Screenshot-of-app](./public/assets/Screenshot%20(35).png);
